@@ -1,0 +1,115 @@
+﻿{
+    "botones": [
+        "Inicio",
+        "Presentaci\u00F3n",
+        "Perfiles",
+        "Plan de estudios",
+        "Programas",
+        "Titulaci\u00F3n",
+        "Contacto"
+    ],
+    "titulo": "Ingenier\u00EDa Industrial",
+    "icono": "icono-secciones icon-ingenieria-industrial",
+    "secciones": [
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion\">Bienvenidos</h2><p>La carrera de Ingeniería Industrial te da la bienvenida a la mejor etapa de tu vida, en la Facultad de Estudios Superiores Aragón, ahora ya formas parte de la comunidad universitaria más grande de México. Dentro de la carrera aprenderás  técnicas y metodologías,  que se integrarán en las organizaciones, las personas y los activos, para interconectar todas las partes de la organización, dando lugar a procesos más eficientes y sistemas más productivos. Nuestro programa académico cuenta con la acreditación bajo estándares internacionales otorgada por el Consejo de Acreditación de la Enseñanza de la Ingeniería (CACEI). Así mismo nuestros laboratorios se encuentran certificados bajo la norma ISO-9001:2015, es decir, contamos con uno de los mejores planes  de estudio e instalaciones optimas, para que puedas llevar a cabo tu formación profesional.</p><p>¡Bienvenido a la familia aragonesa, te espera el camino al éxito!</p>",
+            "imagenes": [
+                {
+                    "imagen": "industrial/carrusel/1.jpg", 
+                    "tipo_hipervinculo": "modal", 
+                    "hipervinculo": "industrial/carrusel/img-completa/1.jpg"
+                },
+                {
+                    "imagen": "industrial/carrusel/2.jpg", 
+                    "tipo_hipervinculo": "modal", 
+                    "hipervinculo": "industrial/carrusel/img-completa/2.jpg"
+                },
+                {
+                    "imagen": "industrial/carrusel/3.jpg", 
+                    "tipo_hipervinculo": "modal", 
+                    "hipervinculo": "industrial/carrusel/img-completa/3.jpg"
+                },
+                {
+                    "imagen": "industrial/carrusel/4.jpg", 
+                    "tipo_hipervinculo": "modal", 
+                    "hipervinculo": "industrial/carrusel/img-completa/4.jpg"
+                }
+                
+            ]
+        },
+        {
+            "tipo": "html",
+            "texto": "<div class=\"row mb-3\"><div class=\"col-12\"><h2>Presentaci\u00F3n<\/h2><div class=\"row galeria justify-content-center align-items-center\"><div class=\"col-12 col-lg-6\"><div class=\"embed-responsive embed-responsive-16by9\" style=\"border-radius: 15px;\"> <iframe class=\"embed-responsive-item\" src=\"https:\/\/www.youtube.com\/embed\/N_8D3063w4k\" frameborder=\"0\" allowfullscreen><\/iframe><\/div><\/div><div class=\"col-12 col-lg-4\"><button type=\"button\" class=\"btn boton-registro btn-group-sm btn-secondary\" data-toggle=\"modal\" data-target=\"#modalMision\">Misi\u00F3n</button><div class=\"modal fade\" id=\"modalMision\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"exampleModalLabel\" aria-hidden=\"true\"><div class=\"modal-dialog\" role=\"document\"><div class=\"modal-content\"><div class=\"modal-header\"><h5 class=\"modal-title\" id=\"exampleModalLabel\">Misi\u00F3n</h5><button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></button></div><div class=\"modal-body\"><p>Desarrollar y formar profesionales de la ingeniería industrial que sean líderes emprendedores con conocimientos, habilidades y actitudes, capaces de analizar, diagnosticar y solucionar situaciones en sistemas productivos de bienes y servicios, con un pensamiento analítico, crítico y sistémico, contribuyendo a mejorar la productividad y competitividad de organizaciones, a partir de la adecuada planeación y toma de decisiones en administración, producción, logística y calidad, en el contexto nacional e internacional, respetando el medio ambiente.</p></div></div></div></div><br><button type=\"button\" class=\"btn boton-registro btn-group-sm btn-secondary\" data-toggle=\"modal\" data-target=\"#modalVision\">Visi\u00F3n</button><div class=\"modal fade\" id=\"modalVision\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"exampleModalLabel\" aria-hidden=\"true\"><div class=\"modal-dialog\" role=\"document\"><div class=\"modal-content\"><div class=\"modal-header\"><h5 class=\"modal-title\" id=\"exampleModalLabel\">Visi\u00F3n</h5><button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></button></div><div class=\"modal-body\"><p>La licenciatura de Ingeniería Industrial impartida en la FES Aragón-UNAM será un modelo educativo relevante para su contexto nacional e internacional en la enseñanza de la ingeniería, por la calidad de sus docentes, sus líneas de investigación y el reconocimiento de la sociedad y sus pares académicos y profesionales.</p><p>Su comunidad egresada será identificada por su ética profesional, efectividad, competitividad, identidad aragonesa y por ser agentes de cambio en el desarrollo de los sistemas de bienes y servicios.</p></div></div></div></div>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"ml-3\">Perfiles<\/h2>",
+            "acordeon": [
+                {
+                    "titulo": "Perfil de ingreso",
+                    "texto": "<p>La comunidad estudiantil aspirante a esta carrera debe tener conocimientos sólidos en el Área de Ciencias Físico-Matemáticas, aptitud para definir y aplicar el razonamiento científico al estudio y solución de problemas prácticos en el campo de la física, así como interés en temas relacionados con la industria, dilemas organizacionales, liderazgo y trabajo en equipo, además del conocimiento y comprensión de un idioma extranjero, preferentemente el inglés.<p>"
+                },
+                {
+                    "titulo": "Perfil de egreso",
+                    "texto": "<p>La comunidad egresada de esta Carrera será capaz de realizar trabajos de planeación y control de la producción, análisis y control de presupuestos, procesamiento de datos, control de inventarios, programación y ejecución de mantenimiento industrial, capacitación de personal para mejorar la productividad, técnicas de optimización, administración de operaciones, evaluación y viabilidad de proyectos, análisis y mejora de procesos industriales, así como el diseño, construcción y mantenimiento de productos y equipos.</p>"
+                },
+                {
+                    "titulo": "Objetivos educacionales",
+                    "texto": "<ol class=\"zero-fill-list\"><li>La comunidad egresada de la carrera de ingeniería industrial será capaz de desarrollar, medir, diseñar, conducir, analizar y mejorar los procesos en la elaboración de bienes y servicios.</li><li>La comunidad egresada de la carrera de ingeniería industrial será capaz de desarrollar su creatividad que les permita generar soluciones con un pensamiento analítico y sistémico.</li><li>La comunidad egresada de la carrera de ingeniería industrial tendrá la capacidad de dirigir, integrar, adaptarse, desenvolverse y comunicarse exitosamente en equipos multidisciplinarios de trabajo.</li><li>La comunidad egresada de la carrera de ingeniería industrial se conducirá con ética profesional en su desarrollo laboral.</li><li>La comunidad egresada continuará el desarrollo de sus capacidades mediante la actualización profesional, a través de cursos de especialización, diplomados o estudios de posgrado.</li></ol>"
+                },
+                {
+                    "titulo": "Atributos de egreso",
+                    "texto": "<ol class=\"alpha-numeric-list\"><li>Analiza, diagnostica y diseña estrategias para la solución de problemas en el ámbito de la ingeniería industrial.</li><li>Es capaz de realizar diseño ingenieril, a través del establecimiento de las técnicas adecuadas.</li><li>Desarrolla diseña y conduce experimentos para la elaboración de un producto o proceso.</li><li>Desarrolla habilidades de comunicación y negociación que le permitan interactuar en el ámbito laboral.</li><li>Identifica, analizar y evaluar alternativas éticas ante situaciones relacionadas con su persona, su profesión y su entorno.</li><li>Se mantiene en proceso de desarrollo continuo a través de la actualización profesional.</li><li>Participa o lidera equipos multidisciplinarios desarrollando soluciones prácticas haciendo uso de los recursos disponibles.</li></ol>"
+                }
+            ]
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"ml-3\">Aspectos generales<\/h2>",
+            "acordeon": [
+                {
+                    "titulo": "Requisitos de ingreso",
+                    "texto": "<p class=\"ql-align-justify\"><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">Están establecidos en el Reglamento General de Inscripciones, en el que se determina que para ingresar a la Universidad es indispensable:<\/span><\/p><ol><li class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">solicitar la inscripci\u00F3n de acuerdo con los instructivos que se establezcan;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">haber obtenido en el ciclo de estudios inmediato anterior un promedio m\u00EDnimo de siete o su equivalente;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">contar con la aceptaci\u00F3n mediante concurso de selecci\u00F3n, que comprender\u00E1 una prueba escrita y que deber\u00E1 realizarse dentro de los periodos que al efecto se se\u00F1alen;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">contar con el antecedente acad\u00E9mico indispensable del bachillerato.<\/span><\/li><\/ol>"
+                },
+                {
+                    "titulo": "Requisitos de permanencia",
+                    "texto": "<p class=\"ql-align-justify\"><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Los límites de tiempo para estar inscrito en la Universidad con los beneficios de todos los servicios educativos y extracurriculares, serán del 50% adicional a la duración del plan de estudios.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0);\">La comunidad estudiantil que no termine sus estudios en los plazos señalados no será reinscrita y únicamente conservará el derecho a acreditar las materias faltantes por medio de exámenes extraordinarios.<\/span><\/p>"
+                },
+                {
+                    "titulo": "Normatividad",
+                    "texto": "<ul><li><a href=\"public_html/documents/licenciaturas/industrial/normatividad.pdf\"target=\"_blank\">Normatividad</a> </li></ul>"
+                },
+                {
+                    "titulo": "Duraci\u00F3n",
+                    "texto": "<p>El plan de estudios para la Licenciatura en Ingeniería Industrial comprende 45 asignaturas, de las cuales 40 son obligatorias, 3 obligatorias de especialidad y 2 optativas. Todas ellas se cursarán en ocho semestres que acumulan 334 créditos obligatorios, un mínimo de 24 obligatorios de elección y, por lo menos, 20 optativos, haciendo un total de 378 créditos.</p>"
+                }
+                ]
+        },
+        {
+            "tipo": "html",
+            "texto": "<div class=\"d-md-flex d-sm-block mb-2 justify-content-center\"><a class=\"btn boton-registro btn-group-sm btn-secondary\" href=\"public_html/documents/licenciaturas/industrial/programas-ing-industrial-1313.pdf\" title=\"Programas (1313)\" target=\"_blank\">Programas (1313)<\/a><a class=\"btn boton-registro btn-group-sm btn-secondary\" href=\"public_html/documents/licenciaturas/industrial/programas-ing-industrial-2195.pdf\" title=\"Programas (2195)\" target=\"_blank\">Programas (2195)<\/a><\/div>"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "https://www.aragon.unam.mx/fes-aragon/#!/oferta-academica/licenciaturas/industrial-titulacion"
+        },
+        {
+            "tipo": "contacto",
+            "texto": {
+                "jefe_carrera": "Noé Ávila Esquivel",
+                "foto_jefe_de_carrera": "public_html/img/oferta_academica/industrial/noe-avila-esquivel.jpg",
+                "genero_jefe_carrera": "0",
+                "secretario_tecnico": "Mariela Vianey Rivero Picazo",
+                "foto_secretario_tecnico": "public_html/img/oferta_academica/industrial/mariela-vianey-rivero-picazo.jpg",
+                "genero_secretario_tecnico": "1",
+                "horario": "De lunes a viernes de 9:00 a 15:00 h y de 17:00 a 21:00 h",
+                "telefonos": "55 5623 0222",
+                "extension": "Ext. 30870 y 30927",
+                "correo_electronico": "industrial@aragon.unam.mx st.industrial@aragon.unam.mx",
+                "facebook": "https://www.facebook.com/FESAragon.industrial/",
+                "noticias": "https://www.aragon.unam.mx/fes-aragon/#!/seccion/industrial"
+            }
+        }
+    ]
+}

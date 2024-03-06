@@ -1,0 +1,14 @@
+{
+	"id": 24,
+	"titulo": "Servicios Escolares",
+	"icono": "icon-servicios-escolares",
+	"noticias": [
+		{
+			"titulo":"ExxonMobil brinda apoyo para tu titulaci\u00F3n",
+			"titulo_normalizado":"exxonmobil-brinda-apoyo-para-tu-titulacion",
+			"autor":"Gabriel Hern\u00E1ndez",
+			"imagen": "exxonmobil-brinda-apoyo-para-tu-titulacion-1.jpg",
+			"fecha":"25/10/21"
+		}
+	]
+}

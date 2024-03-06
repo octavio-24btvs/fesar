@@ -1,0 +1,63 @@
+﻿[          
+ 
+    {
+        "imagen": "conv-conc-opos.jpg",
+        "descripcion": "Aviso con relación a los Concursos de Oposición",
+        "hipervinculo": "https://www.aragon.unam.mx/fes-aragon/public_html/documents/slider_principal/conv-conc-opos.pdf"
+    },
+    {
+        "imagen": "convocatoria-programa-definitividad.png",
+        "descripcion": "Programa para Promover la Definitividad del Personal Académico de Asignatura",
+        "hipervinculo": "https://www.aragon.unam.mx/fes-aragon/#!/concurso-de-asignatura"
+    },
+    {
+        "imagen": "reporte-octubre.png",
+        "descripcion": "Programa Preventivo de Fumigación",
+        "hipervinculo": "https://www.aragon.unam.mx/fes-aragon/#!/reporte-oct-2023"
+    },
+    {
+        "imagen": "proceso-de-elecciones-votacion.png",
+        "descripcion": "Proceso de Elecciones",
+        "hipervinculo": "https://www.aragon.unam.mx/fes-aragon/#!/proceso-de-elecciones"
+    },
+    {
+        "imagen": "cursos-profocap-2024-I.png",
+        "descripcion": "Cursos PROFOCAP 2024-I",
+        "hipervinculo": "public_html/documents/slider_principal/cursos-profocap-2024-I.pdf"
+    },
+    {
+        "imagen": "catalogo-patrimonio-unam.png",
+        "descripcion": "Catálogo Patrimonio Cultural UNAM",
+        "hipervinculo": "https://datosabiertos.unam.mx/patrimonio/"
+    },
+    {
+        "imagen": "posgrados.png",
+        "descripcion": "Convocatorias de Posgrado",
+        "hipervinculo": "https://www.aragon.unam.mx/fes-aragon/#!/convocatorias-de-posgrado"
+    },
+    {
+        "imagen": "convocatoria-pepasig-2024I.png",
+        "descripcion": "Bases Huawei",
+        "hipervinculo": "public_html/documents/slider_principal/convocatoria-pepasig-2024I.pdf"
+    },
+    {
+        "imagen": "tren-de-alimentos.jpg",
+        "descripcion": "Tren de alimentos",
+        "hipervinculo": ""
+    },  
+    {
+        "imagen": "enlace-unam.jpg",
+        "descripcion": "Enlace UNAM",
+        "hipervinculo": "https://enlace.unam.mx/"
+    },  
+    {
+        "imagen": "protocolo-violencia-de-genero.png",
+        "descripcion": "Protocolo para la atención integral de casos de violencia por razones de género",
+        "hipervinculo": "https://www.defensoria.unam.mx/web/documentos/protocolo-atencion-integral-de-violencia-por-razones-de-genero.pdf"
+    },
+    {
+        "imagen": "convocatoria-nombramiento.jpg",
+        "descripcion": "Convocatoria para el Proceso de Nombramiento a la Rectoría",
+        "hipervinculo": "public_html/documents/slider_principal/convocatoria-nombramiento.pdf"
+    }
+]
